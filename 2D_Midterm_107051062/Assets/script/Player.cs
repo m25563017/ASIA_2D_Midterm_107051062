@@ -12,7 +12,7 @@ public class Player : MonoBehaviour
     {
         if (collision.name == "Door")
         {
-            print("123");
+            Debug.Log("123");
             final.SetActive(true);  
         }
 

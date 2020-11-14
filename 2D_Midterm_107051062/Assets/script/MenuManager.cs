@@ -8,7 +8,7 @@ public class MenuManager : MonoBehaviour
     {
         print("開始遊戲");     
 
-        SceneManager.LoadScene("場景1");    
+        SceneManager.LoadScene(1);    
         
     }
 
